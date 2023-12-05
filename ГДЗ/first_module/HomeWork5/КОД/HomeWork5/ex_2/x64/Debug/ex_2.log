@@ -1,0 +1,2 @@
+﻿  ex_2.cpp
+D:\Programming\Visual Studio Projects\HomeWork5\ex_2\ex_2.cpp(7): error C4700: использована неинициализированная локальная переменная "i"

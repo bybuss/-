@@ -1,0 +1,3 @@
+﻿  HomeWork2.cpp
+D:\Programming\Projects\Visual_Studio_Projects\HomeWork2\HomeWork2\HomeWork2.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HomeWork2.vcxproj -> D:\Programming\Projects\Visual_Studio_Projects\HomeWork2\x64\Debug\HomeWork2.exe
