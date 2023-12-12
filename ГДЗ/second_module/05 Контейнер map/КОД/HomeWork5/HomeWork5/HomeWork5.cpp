@@ -13,7 +13,7 @@ int main() {
 	shopping_list["Orange"] = 9;
 
 	cout << "first map: " << endl;
-	for (auto i : shopping_list) {
+	for (const auto& i : shopping_list) {
 		cout << i.first << ": " << i.second << endl;
 	}
 
