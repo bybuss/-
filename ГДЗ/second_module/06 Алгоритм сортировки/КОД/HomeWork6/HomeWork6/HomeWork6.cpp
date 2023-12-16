@@ -62,8 +62,6 @@ void bubble_sort() {
             cout << elem << " ";
         }
         cout << endl;
-        cin.clear();
-        cin >> count;
     }
 }
 
