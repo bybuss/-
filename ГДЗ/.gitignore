@@ -1,0 +1,16 @@
+*.exe
+*.obj
+*.ilk
+*.pdb
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+*.tlog/
+*.lastbuildstate
+Debug/
+Release/
+x64/
